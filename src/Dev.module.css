@@ -1,0 +1,9 @@
+.info img {
+    width: 100px;
+    border: 0 0 3px solid #454545;
+    box-shadow: 0 0 7px rgb(255, 0, 0);
+}
+
+.info {
+    display: block;
+}

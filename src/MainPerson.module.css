@@ -1,0 +1,68 @@
+.wrapper {
+    background-color: #ffffff;
+    color: #bdbdbd;
+    text-align: center;
+    background-image: url("paper.png");
+    display:run-in;
+    background-position: center;
+    height: 700px;
+}
+
+.date{
+    font-size: 25px;
+    text-decoration: none;
+    color: #353535;
+}
+
+
+h1{
+    font-family: Helvetica Neue;
+    font-size: 60px;
+    text-decoration: none;
+    color: #353535;
+    
+    padding-top: 10px;
+   
+}
+
+.text{
+    width: 1000px;
+    
+    font-size: 20px;
+    text-decoration: none;
+    color: #353535;
+    text-align: center;
+    margin:20px 100px;
+    margin-left: 500px;
+}
+
+.wrapper img {
+    height: 200px;
+    margin-top: 30px;
+    border: 3px solid #353535;
+}
+
+.persname{
+    margin-top:20px;
+    font-size: 40px;
+    text-decoration: none;
+    color: #353535;
+}
+
+.wrapper a {
+    padding: 8px 30px;
+    color: #353535;
+    
+    letter-spacing: 2px;
+    font-size: 24px;
+    text-decoration: underline;
+}
+
+
+
+@media (max-width: 991px) {
+    .wrapper {
+        height: auto;
+        width: 100%;
+    }
+}

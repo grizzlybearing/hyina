@@ -1,0 +1,34 @@
+.wrapper h1 {
+    text-align: center;
+    color:#ffffff;
+}
+
+.wrapper{
+    background-color: rgb(56, 38, 28);
+}
+.list {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    width: 800px;
+    margin: 0 auto;
+    color:#ffffff;
+    border: 15px;
+    border-style: groove;
+    border-color: rgb(185, 163, 150);
+}
+
+.list h1 {
+    text-align: left;
+    color:#ffffff;
+    font-size: 30px;
+    font-family: Segoe UI;
+    text-decoration: none;
+}
+
+@media (max-width: 991px) {
+    .list {
+        height: auto;
+        width: 100%;
+    }
+}

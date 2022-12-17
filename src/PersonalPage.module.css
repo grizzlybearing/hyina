@@ -1,0 +1,19 @@
+.wrapper {
+    text-align: center;
+    background-color: rgb(192, 168, 156);
+}
+
+.wrapper h1{
+    color:#ffffff;
+    font-family: Segoe UI;
+}
+
+.wrapper h4{
+    color:#ffffff;
+    font-family: Segoe UI;
+}
+
+.avatar {
+    height: 200px;
+    border: 2px solid rgb(248, 246, 246);
+}
