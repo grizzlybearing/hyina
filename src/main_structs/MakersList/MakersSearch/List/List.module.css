@@ -1,0 +1,16 @@
+.poets {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin: 0 auto;
+    background-color: rgb(192, 168, 156);
+}
+
+@media (max-width: 1300px) {
+    .poets {
+        display: block;
+        height: auto;
+        width: 100%;
+        
+    }
+}

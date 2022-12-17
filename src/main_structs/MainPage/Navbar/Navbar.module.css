@@ -1,0 +1,29 @@
+.nav {
+    display: flex;
+    background-color: rgb(56, 38, 28);
+    font-size: 18px;
+    font-weight: 600;
+    padding: 20px;
+    width: 100%;
+  
+}
+
+.item {
+    margin: 0 auto;
+    display: flex;
+    align-items: right;
+}
+
+.item a {
+    color: rgb(185, 163, 150);
+    text-decoration: none;
+    align-items: right;
+    
+    
+}
+
+
+.item a.active {
+    color: #ffffff;
+    align-items: right;
+}
