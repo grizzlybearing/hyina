@@ -2,7 +2,7 @@
   "name": "2lab",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hyina.github.io/belpoets/",
+  "homepage": "https://grizzlybearing.github.io/hyina/",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
